@@ -1,6 +1,6 @@
 # mlnn
-Machine Learning and Neural Networks
-
+Machine Learning and Neural Networks Portfolio
+### changing all this shit.
 #### Course Instructors
 
 - Mahmoud Lababidi (<mlab@jhu.edu> | [Twitter](https://twitter.com/lababidi) | [LinkedIn](https://www.linkedin.com/in/mahmoudlababidi) | [Github](https://github.com/lababidi))
